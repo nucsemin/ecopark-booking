@@ -72,5 +72,5 @@
  <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/houselist.png" width="100%" height="450"/>
   <br></br>
   • Cтраница модерирования отзывов
- <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/adminreviews.png" width="100%" height="500"/>
+ <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/adminreviews.png" width="80%" height="400"/>
  </p>
