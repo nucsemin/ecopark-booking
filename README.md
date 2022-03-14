@@ -19,6 +19,4 @@
    • Кнопка на форму бронирования 
     </p>
 
-<a href="https://ibb.co/sszJ7nB"><img src="https://i.ibb.co/mhgFpkx/2022-03-14-13-59-28.png" alt="2022-03-14-13-59-28" border="0" width="100%" height="550"/></a>
-
-<img src="https://i.ibb.co/mhgFpkx/2022-03-14-13-59-28.png" alt="2022-03-14-13-59-28" width="100%" height="550"/>
+![alt tag](https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/main_web.png "Описание будет тут")​
