@@ -21,3 +21,8 @@
 
 
 <img src="https://i.ibb.co/JxP6Jbt/IMG-3194-2.jpg" alt="альтернативный текст" width="450" height="650"/>
+
+
+
+
+![alt tag](https://github.com/nucsemin/ecopark-booking/blob/main/client/src/img/foto_2.jpeg "Описание будет тут")
