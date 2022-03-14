@@ -19,5 +19,5 @@
    • Кнопка на форму бронирования 
     </p>
 
-<a href="https://ibb.co/sszJ7nB"><img src="https://i.ibb.co/yg7B2t3/2022-03-14-13-59-28.png" alt="2022-03-14-13-59-28" border="0" width="650" height="850"/></a>
+<a href="https://ibb.co/sszJ7nB"><img src="https://i.ibb.co/yg7B2t3/2022-03-14-13-59-28.png" alt="2022-03-14-13-59-28" border="0" width="100%" height="550"/></a>
 
