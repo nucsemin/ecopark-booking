@@ -37,6 +37,6 @@
    • Интерактивный свайпер с различными фотографиями
     
     
-    ![Супер](https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/aboutUs.png "Описание будет тут")​
+    ![Супер](https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/booking1.png "Описание будет тут")​
      </p>
     
