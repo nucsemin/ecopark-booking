@@ -24,7 +24,7 @@
  <p align="left">
    • Информационный блок
     </p>
-![alt aboutus](https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/aboutUs.png "aboutus")
+![alt tag](https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/aboutUs.png "aboutus")
 
 
  <p align="left">
