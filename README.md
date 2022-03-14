@@ -22,21 +22,36 @@
 ![alt tag](https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/main_web.png "Описание будет тут")​
 
 
-
-
-
    • Информационный блок
-    
-    
-    
-    
-
-<img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/aboutUs.png" width="100%" height="400"/>
+<img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/aboutUs.png" width="100%" height="450"/>
 
 
    • Интерактивный свайпер с различными фотографиями
+  <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/1swiper.png" width="100%" height="500"/>
+   
     
-    
-    ![Супер](https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/booking1.png "Описание будет тут")​
-     </p>
-    
+• Информационный блок c услугами 
+  <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/services.png" width="100%" height="500"/>
+
+  • Форма оставления отзыва 
+    <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/feedback.png" width="100%" height="500"/>
+  
+  <br></br>
+ • Компонент с отзывами прошедшими модерацию
+     <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/reviews.png" width="100%" height="380"/>
+  
+  • Информация о заселении
+      <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/info.png" width="100%" height="400"/>
+     • Аккордион с частыми вопросами
+    <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/accordion.png" width="100%" height="400"/>
+     • Подвал сайта с контактами и картой
+    <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/map.png" width="100%" height="600"/>
+     <br></br>
+  • Страница выбора номера на свободные даты
+    <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/booking1.png" width="100%" height="500"/>
+     <br></br>
+    <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/booking2.png" width="100%" height="500"/>
+     <br></br>
+  • Форма бронирования номера
+      <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/booking3.png" width="100%" height="500"/>
+    </p>
