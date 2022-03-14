@@ -31,7 +31,7 @@
     
     
 
-<img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/aboutUs.png" width="100" height="100"/>
+<img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/aboutUs.png" width="100%" height="400"/>
 
 
    • Интерактивный свайпер с различными фотографиями
