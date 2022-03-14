@@ -7,8 +7,8 @@
 
 <h4 align="left">Клиентская часть:</h4>
 <p align="left">
-  ▪
+   •
     </p>
     <p align="left">
-  ▪
+   •
     </p>
