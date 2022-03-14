@@ -20,3 +20,14 @@
     </p>
 
 ![alt tag](https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/main_web.png "Описание будет тут")​
+
+ <p align="left">
+   • Информационный блок
+    </p>
+
+ <p align="left">
+   • Интерактивный коллаж с различными фотографиями
+    </p>
+
+
+<img src="https://media.giphy.com/media/LnwX2NjVzVDvtK8nWP/giphy.gif" alt="альтернативный текст" width="450" height="650"/>
