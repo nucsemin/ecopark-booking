@@ -20,7 +20,7 @@
     </p>
 
 
-<img src="https://i.ibb.co/mhgFpkx/2022-03-14-13-59-28.png" alt="альтернативный текст" width="450" height="650"/>
+<img src="https://i.ibb.co/mhgFpkx/2022-03-14-13-59-28.png" alt="альтернативный тект" width="450" height="650"/>
 
 
 
