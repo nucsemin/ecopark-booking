@@ -22,7 +22,7 @@
 ![alt tag](https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/main_web.png "Описание будет тут")​
 
 
-
+<br></br>
  <p align="left">
    • Информационный блок
     </p>
