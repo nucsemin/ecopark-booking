@@ -30,4 +30,4 @@
     </p>
 
 
-<img src="https://media.giphy.com/media/LnwX2NjVzVDvtK8nWP/giphy.gif" alt="альтернативный текст" width="450" height="650"/>
+<img src="https://media.giphy.com/media/LnwX2NjVzVDvtK8nWP/giphy.gif" alt="альтернативный текст" width="650" height="450"/>
