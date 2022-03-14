@@ -75,8 +75,12 @@
  <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/adminreviews.png" width="80%" height="400"/>
  </p>
 
-  <h4 align="left">Техстек проекта:</h4>
-JavaScript
-<p>DB: PostgreSQL, Sequelize ORM </p>
-<p>Back: Node.js, Express, Sessions, Cors, JSON Web Token </p>
-<p>Front: React + Redux, Redux Saga, SVG, HTML5, SCSS/CSS3, Material UI </p>
+  <h3 align="left">Техстек проекта:</h3>
+<p>JavaScript</p>
+
+  **DB**: PostgreSQL, Sequelize ORM 
+
+**Back**: Node.js, Express, Sessions, Cors, JSON Web Token 
+
+**Front**: React + Redux, Redux Saga, SVG, HTML5, SCSS/CSS3, Material UI 
+
