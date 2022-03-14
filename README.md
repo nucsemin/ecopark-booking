@@ -26,8 +26,9 @@
     </p>
 
  <p align="left">
-   • Интерактивный коллаж с различными фотографиями
+   • Интерактивный свайпер с различными фотографиями
     </p>
 
+![alt tag](https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/1swiper.png "Описание будет тут")
 
 <img src="https://media.giphy.com/media/LnwX2NjVzVDvtK8nWP/giphy.gif" alt="альтернативный текст" width="650" height="450"/>
