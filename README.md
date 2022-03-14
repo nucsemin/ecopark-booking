@@ -33,3 +33,7 @@
  <p align="left">
    • Интерактивный свайпер с различными фотографиями
     </p>
+    
+    
+    ![alt tag](https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/1swiper.png "Описание будет тут")​
+    
