@@ -48,10 +48,15 @@
     <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/map.png" width="100%" height="600"/>
      <br></br>
   • Страница выбора номера на свободные даты
-    <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/book1.png" width="100%" height="500"/>
+    <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/book1.png" width="100%" height="350"/>
      <br></br>
     <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/book2.png" width="100%" height="500"/>
      <br></br>
   • Форма бронирования номера
-      <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/book3.png" width="100%" height="500"/>
+      <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/book3.png" width="100%" height="420"/>
+    </p>
+    
+  <h4 align="left">Клиентская часть:</h4>
+     <p align="left">
+   • Шапка сайта 
     </p>
