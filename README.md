@@ -54,9 +54,18 @@
      <br></br>
   • Форма бронирования номера
       <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/book3.png" width="100%" height="420"/>
+      • Ошибка 404
+      <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/404_1.png" width="100%" height="500"/>
     </p>
     
-  <h4 align="left">Клиентская часть:</h4>
+  <h4 align="left">Панель управления:</h4>
      <p align="left">
-   • Шапка сайта 
-    </p>
+   • Главная панель
+      <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/admin.png" width="100%" height="500"/>
+    • Просмотр актуальных бронирований, с возможностью изменить состояние бронирования 
+      <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/all_booking.png" width="100%" height="500"/>
+    • Cтраница с информацией по номерам, с дополнительной информацией и возможностью изменения информации о номерах
+ <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/houselist.png" width="100%" height="500"/>
+  • Cтраница модерирования отзывов
+ <img src="https://github.com/nucsemin/ecopark-booking/blob/dev/client/src/img/adminreviews.png" width="100%" height="500"/>
+ </p>
